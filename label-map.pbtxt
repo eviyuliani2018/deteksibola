@@ -1,0 +1,12 @@
+item {
+  name:'bola_hijau'
+  id:1
+}
+item {
+  name:'bola_kuning'
+  id:2
+}
+item {
+  name:'bola_merah'
+  id:3
+}
